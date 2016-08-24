@@ -6,9 +6,9 @@ color:
   saturation: 0.4515022183768451
   rhythmicContrast: 0.5328734759241343
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Pronto
