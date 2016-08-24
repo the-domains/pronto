@@ -1,0 +1,14 @@
+layout_spectrum: 0.70508938212879
+typography_spectrum: 0.7486254086252302
+color:
+  brandStrength: 0.658430565148592
+  lightness: 0.4599242457188666
+  saturation: 0.4515022183768451
+  rhythmicContrast: 0.5328734759241343
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+name: Pronto
